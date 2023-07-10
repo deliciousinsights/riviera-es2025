@@ -1,12 +1,10 @@
 {
-  "name": "typescript-slides",
+  "name": "riviera-es2025",
   "private": true,
   "scripts": {
-    "build": "slidev build --base=/typescript/",
-    "build:debrief": "slidev build --base=/ --out=dist-debrief",
+    "build": "slidev build --base=/riviera-es2025/",
     "dev": "slidev --open",
-    "export": "slidev export",
-    "deploy": "aws s3 rm --recursive s3://drive.delicious-insights.com/typescript && aws s3 cp --recursive --acl=public-read dist s3://drive.delicious-insights.com/typescript/"
+    "export": "slidev export"
   },
   "dependencies": {
     "@slidev/cli": "^0.41.1",
