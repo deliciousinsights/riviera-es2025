@@ -3,7 +3,7 @@ theme: ./theme
 titleTemplate: 'Quoi de neuf dans ES2025 ? Une présentation de Christophe Porteneuve à RivieraDEV 2023'
 background: /covers/mosi-knife--PVgDgKXgZA-unsplash.jpg
 download: false
-exportFilename: quoi-de-neuf-es2025-porteneuve-rivieradev
+# exportFilename: quoi-de-neuf-es2025-porteneuve-rivieradev
 class: text-center
 highlighter: shiki
 monaco: false
